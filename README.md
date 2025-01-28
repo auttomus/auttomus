@@ -1,4 +1,4 @@
-<h3 align="center"> Hello Everyone, I'm Kadek Agus Arya Pranata </h4>
+<h3 align="center"> Hi Everyone, I'm Kadek Agus Arya Pranata </h4>
 <hr>
 <p>
   I'm a <b>software engineering</b> student in SMK Negeri 1 Denpasar.
